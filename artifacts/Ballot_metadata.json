@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"RockPaperScissors.sol": "Ballot"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"RockPaperScissors.sol": {
+			"keccak256": "0xd71218dc21b83bff705ffbb8696eada05f11f09de56d4bde01943340c2949f06",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://df127bed160d6e7063d439603c4a63a831d9ca851e4313a84ddc9113c424f480",
+				"dweb:/ipfs/QmWitH8snehro9y5qRrm1FKnaz9fmp7CRZvc96gVqJ4gZ2"
+			]
+		}
+	},
+	"version": 1
+}
